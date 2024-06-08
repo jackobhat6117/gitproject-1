@@ -1,2 +1,1 @@
-hello = 'world'
-good = 'hello'
+name = 'features'
