@@ -1,1 +1,1 @@
-name = 'features'
+name=features-x
