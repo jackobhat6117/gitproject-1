@@ -1,3 +1,3 @@
-name = 'feature'
+name = 'feature-x'
 age = 12
 
